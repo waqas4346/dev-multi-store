@@ -1,3 +1,5 @@
 config.yml
-
+config/settings_data.json
+locales/
+templates/
 .DS_Store
