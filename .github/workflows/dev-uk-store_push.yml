@@ -27,4 +27,3 @@ jobs:
       - name: Push the dev-uk-store
         run: |
           git push origin dev-uk-store
-      - name: Updated dev-uk-store
